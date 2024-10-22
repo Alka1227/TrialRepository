@@ -1,0 +1,47 @@
+
+1. **Propiedades de Texto:**
+   - `color`: Puede tomar nombres de colores (como "red", "blue"), códigos hexadecimales (`#ff0000`), RGB (`rgb(255, 0, 0)`).
+   - `font-family`: Puede ser el nombre de una fuente específica o una lista de fuentes de respaldo.
+   - `font-size`: Puede ser en píxeles (`px`), em (`em`), porcentaje (`%`), entre otros.
+   - `font-weight`: Puede ser valores numéricos (400, 700) o palabras clave (`normal`, `bold`).
+
+2. **Propiedades de Fondo:**
+   - `background-color`: Igual que la propiedad `color`.
+   - `background-image`: Puede ser una URL de imagen.
+   - `background-repeat`: Valores como `repeat`, `no-repeat`, `repeat-x`, `repeat-y`.
+   - `background-position`: Puede ser porcentajes o valores como `center`, `top`, etc.
+
+3. **Propiedades de Borde:**
+   - `border`: Puede definir el ancho, estilo y color en una sola propiedad.
+   - `border-radius`: Puede ser en píxeles, porcentaje, etc.
+   - `border-color`: Igual que la propiedad `color`.
+
+4. **Propiedades de Espaciado:**
+   - `margin`, `padding`: Puede ser en píxeles, porcentaje, etc.
+   - `width`, `height`: Puede ser en píxeles, porcentaje, auto, etc.
+
+5. **Propiedades de Posicionamiento:**
+   - `position`: Puede ser `static`, `relative`, `absolute`, `fixed`.
+   - `top`, `right`, `bottom`, `left`: Puede ser en píxeles, porcentaje, etc.
+
+6. **Propiedades de Visualización:**
+   - `display`: Puede ser `block`, `inline`, `inline-block`, `none`.
+   - `visibility`: Puede ser `visible`, `hidden`.
+
+7. **Propiedades de Opacidad y Transparencia:**
+   - `opacity`: Puede ser un valor decimal de 0 a 1.
+   - `rgba()`: Puede definir colores con un cuarto valor para la transparencia (0 a 1).
+
+8. **Propiedades de Animación:**
+   - `animation`: Puede definir nombre de animación, duración, temporización, etc.
+   - `transition`: Puede definir las propiedades a las que se aplicará la transición, duración, temporización, etc.
+
+9. **Propiedades de Flexbox:**
+   - `display: flex`: No tiene valores adicionales.
+   - `justify-content`: Puede ser `flex-start`, `flex-end`, `center`, etc.
+   - `align-items`: Puede ser `stretch`, `flex-start`, `flex-end`, `center`, etc.
+
+10. **Propiedades de Grillas (Grid):**
+    - `display: grid`: No tiene valores adicionales.
+    - `grid-template-columns`, `grid-template-rows`: Puede ser en píxeles, porcentaje, fr, etc.
+
