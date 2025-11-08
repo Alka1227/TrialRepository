@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<productos>
+  <producto id="1" categoria="Varios">
+    <nombre>Aceite</nombre>
+    <colores>
+      <color>Dorado</color>
+    </colores>
+    <precio moneda="MXN">50.0</precio>
+  </producto>
+  <producto id="2" categoria="Varios">
+    <nombre>Papel</nombre>
+    <colores>
+      <color>Blanco</color>
+    </colores>
+    <precio moneda="MXN">120.0</precio>
+  </producto>
+  <producto id="3" categoria="Verduras">
+    <nombre>Chile Ancho</nombre>
+    <colores>
+      <color>Verde</color>
+    </colores>
+    <precio moneda="MXN">6.0</precio>
+  </producto>
+</productos>

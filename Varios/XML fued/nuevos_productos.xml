@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+    <producto id="5" categoria="Verdura">
+        <nombre>Pepino</nombre>
+        <colores>
+            <color>Verde</color>
+        </colores>
+        <precio moneda ="MXN">10</precio>
+    </producto>
+    <producto id="6" categoria="Fruta">
+        <nombre>Manzana</nombre>
+        <colores>
+            <color>Rojo </color>
+            <color>Verde</color> 
+            <color>Amarillo</color>
+        </colores>
+        <precio moneda ="MXN">20</precio>
+    </producto>
+    <producto id="7" categoria="Lacteos">
+        <nombre>Queso</nombre>
+        <colores>
+            <color>Blanco</color> 
+            <color>Amarillo</color>
+        </colores>
+        <precio moneda ="MXN">500</precio>
+    </producto>
+    <producto id="8" categoria="Lacteos">
+        <nombre>Crema</nombre>
+        <colores>
+            <color>Blanco</color> 
+        </colores>
+        <precio moneda ="MXN">500</precio>
+    </producto>
+</productos>
